@@ -191,14 +191,14 @@ body {
     color: #ff6c09;
 }
 
-.profession-period {
+.duration-time {
     font-size: 12px;
     line-height: 24px;
     font-weight: 400;
     color: #a8a8a8;
 }
 
-.profession-divider {
+.date-divider {
     color: #000;
 }
 
@@ -212,4 +212,20 @@ body {
     line-height: 24px;
     font-weight: 400;
     color: #595959;
+}
+
+.school-name {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #ff6b08;
+    margin-top: 13px;
+    margin-bottom: 15px;
+}
+
+.school-major {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    margin-bottom: 15px;
 }
