@@ -230,3 +230,9 @@ body {
     font-weight: 700;
     margin-bottom: 5px;
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .sidebar {width: 100%;}
+    .about-me-container {width: 100%;}
+}
