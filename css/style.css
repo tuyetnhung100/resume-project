@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html { 
+    font-size: 100%;
+}
+
 body {
     background: #f5f7fa;
     font-family: Montserrat;
@@ -231,15 +235,16 @@ body {
     margin-bottom: 5px;
 }
 
-/* @media only screen and (max-width: 768px) { */
+@media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    /* .wrapper {display: block;}
+    .wrapper {display: block;}
     .sidebar {width: 100%;}
     .my-photo {max-width: 100%;}
-    .profession {width: 100%;}
+    /* .profession {width: 100%;}
     .name {width: 100%;}
     .description {width: 100%;}
     .projects-container {width: 100%;}
     .work-experience-container {width: 100%;}
-    .education-container {width: 100%;}
-} */
+    .education-container {width: 100%;} */
+    body {font-size: 1rem;}
+} 
