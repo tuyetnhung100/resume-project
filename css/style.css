@@ -4,8 +4,6 @@
     box-sizing: border-box;
 }
 
-/* html {font-size: 100%;} */
-
 body {
     background: #f5f7fa;
     font-family: Montserrat;
@@ -233,16 +231,18 @@ body {
     margin-bottom: 5px;
 }
 
+html {font-size: 100%;}
+
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .wrapper {display: block;}
     .sidebar {width: 100%;}
     .my-photo {max-width: 100%;}
-    .profession {width: 100%;}
-    .name {width: 100%;}
-    .description {width: 100%;}
-    .projects-container {width: 100%;}
-    .work-experience-container {width: 100%;}
-    .education-container {width: 100%;}
+    .profession {font-size: 1rem;}
+    .name {font-size: 1rem;}
+    .description {font-size: 1rem;}
+    .projects-container {font-size: 1rem;}
+    .work-experience-container {font-size: 1rem;}
+    .education-container {font-size: 1rem;}
     /* body {font-size: 1rem;} */
 } 
