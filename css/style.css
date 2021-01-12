@@ -231,20 +231,12 @@ body {
     margin-bottom: 5px;
 }
 
-/* html {font-size: 100%;} */
-
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .wrapper {display: block;}
     .sidebar {width: 100%;}
     .my-photo {max-width: 100%;}
     .name {font-size: 35px;}
-    /* .profession {font-size: 1rem;}
-    .name {font-size: 1rem;}
-    .description {font-size: 1rem;}
-    .projects-container {font-size: 1rem;}
-    .work-experience-container {font-size: 1rem;}
-    .education-container {font-size: 1rem;} */
     .about-me-container {
         padding-left: 50px;
         padding-right: 50px;
