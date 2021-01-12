@@ -238,6 +238,7 @@ body {
     .wrapper {display: block;}
     .sidebar {width: 100%;}
     .my-photo {max-width: 100%;}
+    .name {font-size: 35px;}
     /* .profession {font-size: 1rem;}
     .name {font-size: 1rem;}
     .description {font-size: 1rem;}
