@@ -238,11 +238,11 @@ html {font-size: 100%;}
     .wrapper {display: block;}
     .sidebar {width: 100%;}
     .my-photo {max-width: 100%;}
-    .profession {font-size: 1rem;}
+    /* .profession {font-size: 1rem;}
     .name {font-size: 1rem;}
     .description {font-size: 1rem;}
     .projects-container {font-size: 1rem;}
     .work-experience-container {font-size: 1rem;}
-    .education-container {font-size: 1rem;}
-    /* body {font-size: 1rem;} */
+    .education-container {font-size: 1rem;} */
+    body {font-size: 1rem;}
 } 
