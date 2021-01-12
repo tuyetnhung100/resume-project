@@ -231,7 +231,7 @@ body {
     margin-bottom: 5px;
 }
 
-html {font-size: 100%;}
+/* html {font-size: 100%;} */
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
@@ -244,5 +244,8 @@ html {font-size: 100%;}
     .projects-container {font-size: 1rem;}
     .work-experience-container {font-size: 1rem;}
     .education-container {font-size: 1rem;} */
-    body {font-size: 1rem;}
+    .about-me-container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
 } 
