@@ -234,7 +234,7 @@ body {
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .wrapper {display: block;}
-    .sidebar {width: 100%;}
+    .sidebar {max-width: 100%;}
     .my-photo {max-width: 100%;}
     .name {font-size: 35px;}
     .about-me-container {
