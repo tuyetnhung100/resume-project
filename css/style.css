@@ -231,8 +231,9 @@ body {
     margin-bottom: 5px;
 }
 
-@media only screen and (max-width: 2000px) {
+@media only screen and (max-width: 768px) {
     /* For mobile phones: */
+    .wrapper {display: block;}
     .sidebar {width: 100%;}
-    .about-me-container {width: 100%;}
+    .my-photo {width: 100%;}
 }
