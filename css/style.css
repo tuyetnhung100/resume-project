@@ -15,7 +15,7 @@ body {
 
 .wrapper {
     background: #fff;
-    /* display: flex; */
+    display: flex;
     max-width: 1200px;
     margin: 0 auto;
     box-shadow: 5px 9px 20px 0px rgba(0,0,0,0.15);
