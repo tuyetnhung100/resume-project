@@ -15,7 +15,7 @@ body {
 
 .wrapper {
     background: #fff;
-    display: flex;
+    /* display: flex; */
     max-width: 1200px;
     margin: 0 auto;
     box-shadow: 5px 9px 20px 0px rgba(0,0,0,0.15);
@@ -231,9 +231,15 @@ body {
     margin-bottom: 5px;
 }
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) { */
     /* For mobile phones: */
-    .wrapper {display: block;}
+    /* .wrapper {display: block;}
     .sidebar {width: 100%;}
-    .my-photo {width: 100%;}
-}
+    .my-photo {max-width: 100%;}
+    .profession {width: 100%;}
+    .name {width: 100%;}
+    .description {width: 100%;}
+    .projects-container {width: 100%;}
+    .work-experience-container {width: 100%;}
+    .education-container {width: 100%;}
+} */
